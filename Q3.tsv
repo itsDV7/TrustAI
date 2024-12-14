@@ -1,0 +1,22 @@
+image_filename	question_id	complementary_question_id	question_text	model_response	is_correct
+COCO_val2014_000000318114.jpg	318114001	306889001	Is this acidic food?	Yes, the orange juice shown in the glass would be acidic with a typical pH around 3.5, though the scone/baked good appears neutral.	1
+COCO_val2014_000000306889.jpg	306889001	318114001	Is this acidic food?	No, this appears to be a blueberry coffee cake which would be relatively neutral in pH.	1
+COCO_val2014_000000028714.jpg	28714002	426166003	Is there a graffiti on the wall?	Yes, there are two distinct graffiti murals on the wall - colorful cartoon-style art on the left and a monochromatic portrait with a cat on the right.	1
+COCO_val2014_000000426166.jpg	426166003	28714002	Is there a graffiti on the wall?	No, there is no graffiti on these walls - just painted walls in green and red with teal shutters and a turquoise bicycle leaning against them.	1
+COCO_val2014_000000546721.jpg	546721000	513115004	Are these boats docked?	Yes, the boats are docked and moored in what appears to be a marina or harbor.	1
+COCO_val2014_000000513115.jpg	513115004	546721000	Are these boats docked?	No, these boats appear to be anchored or moored in the harbor, not docked at a pier or dock.	1
+COCO_val2014_000000245874.jpg	245874002	515660010	What is in the mug?	Based on the dark liquid visible in the mug, it appears to be coffee.	1
+COCO_val2014_000000515660.jpg	515660010	245874002	What is in the mug?	There is no mug in this image - but there are wine glasses with what appears to be rosé wine, a plate of shrimp with a dipping sauce in a small white bowl, bread, and table settings.	1
+COCO_val2014_000000245874.jpg	245874000	50829095	Is this a healthy meal?	No - while the grapefruit is nutritious, the meal consisting of just toast and what appears to be coffee isn't a well-balanced healthy meal as it lacks protein, vegetables, and other important nutrients.	0
+COCO_val2014_000000050829.jpg	50829095	245874000	Is this a healthy meal?	No - while there appear to be some vegetables (cucumber salad and carrots), this meal featuring what looks like a burger or sandwich with fries and sauce is relatively high in calories, fats, and refined carbohydrates.	1
+COCO_val2014_000000436127.jpg	436127003	208549005	What animal is in the photo?	A horse - specifically a black/dark colored horse with a mounted police officer in a blue uniform.	1
+COCO_val2014_000000208549.jpg	208549005	436127003	What animal is in the photo?	A longhorn steer or cow - it appears to be white in color with distinctive long horns and is saddled.	1
+COCO_val2014_000000271639.jpg	271639002	283217021	What does the woman have in her hand?	A tennis racket is in her hand.	1
+COCO_val2014_000000283217.jpg	283217021	271639002	What does the woman have in her hand?	I cannot clearly determine what anyone is holding in this image - the people are shown as dark silhouettes walking along what appears to be a beach with umbrellas, under stormy skies.	1
+COCO_val2014_000000271639.jpg	271639001	201561030	What sport is this woman playing?	Tennis - she's on a tennis court wearing tennis attire and holding a tennis racket.	1
+COCO_val2014_000000201561.jpg	201561030	271639001	What sport is this woman playing?	This appears to be frisbee/disc golf, and I can only see someone's legs wearing white shorts and sneakers, not their full body, so I cannot determine if it's a woman or man in the image.	1
+COCO_val2014_000000037846.jpg	37846002	412966001	What color are the skiers shoes?	The ski boots are yellow in color.	1
+COCO_val2014_000000412966.jpg	412966001	37846002	What color are the skiers shoes?	I cannot clearly see the ski boots in this image as they are mostly obscured by snow and the skis themselves.	1
+COCO_val2014_000000028714.jpg	28714000	277005003	Is anyone riding the bike?	No, the bicycle is parked and leaning against the doorway with no one riding it.	1
+COCO_val2014_000000277005.jpg	277005003	28714000	Is anyone riding the bike?	Yes, there appears to be someone riding a bicycle in the background on the left side of the image, though they are somewhat blurred in motion.	1
+					19/20
